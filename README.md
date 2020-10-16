@@ -16,4 +16,4 @@ where `vertices.csv` is a csv file with two columns, one for the (integer) ident
 # Notes
 That this library was written before the final publication of the paper, and uses slightly different terminology ("disruptiveness" -> "CD index", "disruptive" -> "destabilizing", "amplifying" -> "consolidating", "radicalness" -> "mCD index"). 
 
-Also note that this code was written by Funk ages ago, and while potentially useful, is not really actively maintained, though he is generally happy to answer questions (<rfunk@umn.edu>). There is more recent C/Python package available here. 
+Also note that this code was written by Funk ages ago, and while potentially useful, is not really actively maintained, though he is generally happy to answer questions (<rfunk@umn.edu>). There is more recent C/Python package available [here](https://github.com/russellfunk/cdindex). 
